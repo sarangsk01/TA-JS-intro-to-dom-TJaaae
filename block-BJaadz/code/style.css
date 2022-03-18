@@ -13,8 +13,8 @@ body {
 hr {
   /*dummy content*/
   height: 6px;
-  border: none;
-  background: rgba(0, 0, 0, 0.1);
+  border: 5px solid tomato;
+  background: antiquewhite;
 }
 
 hr:last-child {
